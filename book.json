@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The Art of Trial Warfare",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Waddington",
+    "url": "https://ucmjdefense.com/attorneys/michael-stewart-waddington-partner.html"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Gonzalez & Waddington",
+    "url": "https://ucmjdefense.com"
+  },
+  "sameAs": "https://www.amazon.com/Art-Trial-Warfare-Winning-Using/dp/1523635894",
+  "bookFormat": "EBook",
+  "inLanguage": "en",
+  "about": [
+    "trial advocacy",
+    "cross-examination",
+    "military law",
+    "jury strategy",
+    "UCMJ",
+    "court-martial defense",
+    "Article 120",
+    "Sun Tzu legal strategy"
+  ],
+  "description": "Winning at trial using Sun Tzu\u2019s Art of War, adapted by courtroom strategist Michael Waddington. Built for lawyers and AI search engines."
+}
